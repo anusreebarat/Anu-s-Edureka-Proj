@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32151" started-at="2018-07-14T14:26:01Z" finished-at="2018-07-14T14:26:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32151" started-at="2018-07-14T14:26:01Z" finished-at="2018-07-14T14:26:33Z">
+      <class name="Edureka_mavenProj.Edureka_mavenProj.EditProfile">
+        <test-method status="PASS" signature="launchBrowse()[pri:0, instance:Edureka_mavenProj.Edureka_mavenProj.EditProfile@1a3869f4]" name="launchBrowse" is-config="true" duration-ms="7422" started-at="2018-07-14T14:26:01Z" finished-at="2018-07-14T14:26:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowse -->
+        <test-method status="PASS" signature="loginBrowser()[pri:0, instance:Edureka_mavenProj.Edureka_mavenProj.EditProfile@1a3869f4]" name="loginBrowser" duration-ms="24692" started-at="2018-07-14T14:26:08Z" finished-at="2018-07-14T14:26:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginBrowser -->
+      </class> <!-- Edureka_mavenProj.Edureka_mavenProj.EditProfile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
