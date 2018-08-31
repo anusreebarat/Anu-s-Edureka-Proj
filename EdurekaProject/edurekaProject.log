@@ -1,0 +1,21 @@
+2018-08-10 10:00:35 INFO  Log:9 - ****************************************************************************************
+2018-08-10 10:00:35 INFO  Log:10 - ****************************************************************************************
+2018-08-10 10:00:35 INFO  Log:11 - $$$$$$$$$$$$$$$$$$$$$                 UpdateProfile       $$$$$$$$$$$$$$$$$$$$$$$$$
+2018-08-10 10:00:35 INFO  Log:12 - ****************************************************************************************
+2018-08-10 10:00:35 INFO  Log:13 - ****************************************************************************************
+2018-08-10 10:00:35 INFO  Log:25 - Excel sheet opened
+2018-08-10 10:00:35 INFO  Log:25 - Total number of Row used return as < 1 >.
+2018-08-10 10:00:39 INFO  Log:25 - New driver instantiated
+2018-08-10 10:00:39 INFO  Log:25 - Implicit wait applied on the driver for 10 seconds
+2018-08-10 10:00:42 INFO  Log:25 - Web application launched successfully
+2018-08-10 10:00:42 INFO  Log:25 - Click action is perfromed on My Account link
+2018-08-10 10:00:44 INFO  Log:25 - anusreebarat@gmail.com is entered in UserName text box
+2018-08-10 10:00:44 INFO  Log:25 - Click action is performed on Submit button
+2018-08-10 10:00:50 INFO  Log:25 - Navgating to my profile page
+2018-08-10 10:00:52 INFO  Log:25 - CLick on edit profile page
+2018-08-10 10:00:55 INFO  Log:25 - Selected the current industry from the dropdown menu
+2018-08-10 10:00:56 INFO  Log:25 - Update all the Professional details
+2018-08-10 10:01:01 INFO  Log:25 - Save the data
+2018-08-10 10:01:04 INFO  Log:25 - Ensure that the data is updated.
+2018-08-10 10:01:04 INFO  Log:18 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2018-08-10 10:01:04 INFO  Log:19 - X

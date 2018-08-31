@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.Edureka.utility.Listener"/>
+    <listener class-name="com.Edureka.utility.Listeners"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.Edureka.Scripts.UpdateProfile">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.Edureka.Scripts.UpdateProfile -->
+      <class name="com.Edureka.Scripts.ExploreTheProductsOnEdureka">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.Edureka.Scripts.ExploreTheProductsOnEdureka -->
+      <class name="com.Edureka.Scripts.ExploretheCoursesRegistered">
+        <methods>
+          <include name="main"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.Edureka.Scripts.ExploretheCoursesRegistered -->
+      <class name="com.Edureka.Scripts.ExploreBlogsOnEdureka">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.Edureka.Scripts.ExploreBlogsOnEdureka -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
